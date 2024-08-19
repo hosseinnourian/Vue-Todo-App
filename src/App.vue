@@ -2,6 +2,7 @@
 import AssistanceBar from './components/AssistanceBar.vue';
 import Banner from './components/Banner.vue';
 import Container from './components/Container.vue';
+import TodoList from './components/TodoList.vue';
 
 </script>
 
@@ -10,6 +11,7 @@ import Container from './components/Container.vue';
   <Container>
     <Banner />
     <AssistanceBar />
+    <TodoList />
   </Container>
 
 
